@@ -1,4 +1,31 @@
 <!SLIDE center>
+# The Job #
+
+<!SLIDE center>
+# Where to look #
+
+<!SLIDE center>
+## Open Source ##
+
+<!SLIDE center>
+## Startups ##
+
+.notes Silicon Florist, Silicon Prairie News
+
+<!SLIDE center>
+## The Man ##
+
+.notes great internships and entry-level jobs
+
+<!SLIDE center>
+## Career Services ##
+
+<!SLIDE center>
+## Non-traditional roles ##
+
+.notes post-BS internships, creating startup, Code for America
+
+<!SLIDE center>
 # Getting the job #
 
 <!SLIDE center>
