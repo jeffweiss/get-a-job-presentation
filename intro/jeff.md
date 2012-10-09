@@ -11,12 +11,17 @@
 # Enterprise Engineering Team Lead #
 ## Puppet Labs ##
 
-<!SLIDE smbullets small>
-Previously Team Lead at:
+<!SLIDE center>
+## Previously at ...##
 
-* Hewlett-Packard
-* Los Alamos National Laboratory
-* Honeywell
+<!SLIDE center>
+## Hewlett-Packard ##
+
+<!SLIDE center>
+## Los Alamos National Laboratory ##
+
+<!SLIDE center>
+## Honeywell ##
 
 <!SLIDE center>
 # Who do I work for? #
@@ -33,17 +38,42 @@ Developer of IT automation software for system administrators
 * Support for Red Hat, CentOS, Ubuntu, Debian, SUSE, Solaris 10, Windows, Mac OS X
 * Investments from Google Ventures, Cisco, VMware, Kleiner Perkins, and True Ventures
 
-<!SLIDE smbullets small>
+<!SLIDE center>
 # Why did I join? #
 
-1. Pace
-1. Product
-1. Principles
-1. Potential
+<!SLIDE center>
+## Pace ##
+
+.notes fast, but sustainable
+.notes actively discouraged from work > 40 hr/wk
+
+<!SLIDE center>
+## Product ##
+
+.notes interesting technology: describe end state, we make it happen
+.notes interesting CS problems: graph theory, compilers, distributed systems
+
+<!SLIDE center>
+## Principles ##
+
+.notes transparency
+.notes no not-my-job mentality
+.notes customer and design centric
+.notes just fix it & ship it
+.notes collaborative
+.notes sustainable
+
+<!SLIDE center>
+## Potential ##
+
+.notes product - crazy vision: describe clean house, robots make it happen
+.notes career - growing like crazy, hired as a plain ol' sw engineer, now managing 7
 
 <!SLIDE smbullets small>
 # Why do I stay? #
 ![People](people.jpeg)
+
+.notes it really feels like a family
 
 <!SLIDE center>
 @jeffweiss
