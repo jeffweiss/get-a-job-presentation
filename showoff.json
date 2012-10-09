@@ -4,13 +4,14 @@
   "sections": [
 
     "intro/jeff.md",
-    "intro/puppet.md",
 
 /* Getting the job */
     "get_job/overview.md",
     "get_job/awesome.md",
     "get_job/passionate.md",
+    "get_job/wrap_up.md",
     "get_job/duh.md",
+
 
 /* At the job */
     "at_job/overview.md"

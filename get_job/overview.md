@@ -1,5 +1,6 @@
-<!SLIDE smbullets small>
-Getting a job comes down to two things:
+<!SLIDE center>
+# Getting the job #
 
-1. Being an expert at _something_
-1. Making employer passionate about you
+<!SLIDE smbullets small>
+1. Be an expert at _something_
+1. Make employer passionate about _you_
