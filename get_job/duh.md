@@ -1,9 +1,14 @@
 <!SLIDE center>
 # One more thing... #
 
-<!SLIDE smbullets small>
-# Shouldn't need said, but... #
+<!SLIDE center>
+## Shouldn't need said, but... ##
 
-* Spelling
-* Grammar
-* Spelling
+<!SLIDE center>
+## Spelling ##
+
+<!SLIDE center>
+## Grammar ##
+
+<!SLIDE center>
+## Spelling ##

@@ -3,14 +3,15 @@
   "description": "",
   "sections": [
 
+    "intro/title.md",
     "intro/jeff.md",
 
 /* Getting the job */
     "get_job/overview.md",
     "get_job/awesome.md",
     "get_job/passionate.md",
-    "get_job/wrap_up.md",
     "get_job/duh.md",
+    "get_job/wrap_up.md",
 
 
 /* At the job */
