@@ -1,0 +1,17 @@
+{
+  "name": "How to get a job & be awesome at it",
+  "description": "",
+  "sections": [
+
+    "intro/jeff.md",
+    "intro/puppet.md",
+
+/* Getting the job */
+    "get_job/overview.md",
+    "get_job/awesome.md",
+    "get_job/passionate.md",
+
+/* At the job */
+    "at_job/overview.md"
+  ]
+}
