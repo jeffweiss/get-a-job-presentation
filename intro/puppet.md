@@ -1,3 +1,6 @@
+<!SLIDE center>
+# Who do I work for? #
+
 <!SLIDE smbullets small>
 # About Puppet Labs #
 
