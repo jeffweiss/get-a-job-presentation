@@ -15,6 +15,7 @@
 
 
 /* At the job */
-    "at_job/overview.md"
+    "at_job/overview.md",
+    "at_job/mentor.md"
   ]
 }
