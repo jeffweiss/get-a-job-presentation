@@ -7,10 +7,11 @@
 <!SLIDE center>
 ## Side Projects ##
 
-<!SLIDE>
-    @@@ Shell
-    $ git commit -am "all the things"
-    $ git push github
+<!SLIDE center>
+	@@@ Shell
+	$ git commit -am "all the things"
+	$ git push github
+
 .notes visibility is key
 .notes if you do awesome stuff, but no one can see it, it's harder to convince them
 

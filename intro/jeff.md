@@ -69,16 +69,16 @@ Developer of IT automation software for system administrators
 .notes product - crazy vision: describe clean house, robots make it happen
 .notes career - growing like crazy, hired as a plain ol' sw engineer, now managing 7
 
-<!SLIDE smbullets small>
+<!SLIDE center>
 # Why do I stay? #
-![People](people.jpeg)
+![People](smaller.jpeg)
 
 .notes it really feels like a family
 
 <!SLIDE center>
-@jeffweiss
+[@jeffweiss](http://twitter.com/jeffweiss)
 
-github.com/jeffweiss
+[github.com/jeffweiss](https://github.com/jeffweiss)
 
 <!SLIDE center>
 ## Enough about me... ##
