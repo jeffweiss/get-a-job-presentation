@@ -1,14 +1,11 @@
 <!SLIDE center>
 # One more thing... #
 
-<!SLIDE center>
-## Shouldn't need said, but... ##
+<!SLIDE full-page>
+![Guise](guise.gif)
 
-<!SLIDE center>
 ## Spelling ##
-
-<!SLIDE center>
 ## Grammar ##
 
-<!SLIDE center>
-## Spelling ##
+<!SLIDE full-page>
+![Spelling](spelling_prank.png)

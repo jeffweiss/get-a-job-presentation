@@ -6,6 +6,9 @@
 
 ## K-State CIS Alum 2001 ##
 
+<!SLIDE full-page>
+![School spirit](school_spirit.jpeg)
+
 <!SLIDE center>
 
 # Enterprise Engineering Team Lead #

@@ -37,3 +37,6 @@
 <!SLIDE smbullets small center>
 ## Be an expert at _something_ ##
 ## Make employer passionate about _you_ ##
+
+<!SLIDE full-page>
+![Good Code](good_code.png)

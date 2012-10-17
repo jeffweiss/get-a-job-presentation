@@ -1,6 +1,9 @@
 <!SLIDE center>
 # Find mentors #
 
+<!SLIDE full-page>
+![Had Fun Once](had_fun_once.jpeg)
+
 <!SLIDE center>
 ## Need not be formal ##
 
@@ -20,6 +23,9 @@
 ## Be their shadow ##
 
 .notes annoying little brother or sister
+
+<!SLIDE full-page>
+![Dont Be Alone](dont_be_alone.jpeg)
 
 <!SLIDE center>
 # Be a mentor #

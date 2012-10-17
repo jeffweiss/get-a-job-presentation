@@ -2,4 +2,4 @@
 # In the door #
 
 <!SLIDE center>
-# Now what? #
+# _Now_ what? #

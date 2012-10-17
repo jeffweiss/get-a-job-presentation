@@ -16,6 +16,12 @@
 
 /* At the job */
     "at_job/overview.md",
-    "at_job/mentor.md"
+    "at_job/mentor.md",
+    "at_job/business.md",
+
+/* Outro */
+    "get_job/wrap_up.md",
+    "outro/overview.md"
+
   ]
 }
