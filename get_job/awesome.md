@@ -7,7 +7,7 @@
 <!SLIDE center>
 ## Side Projects ##
 
-<!SLIDE center>
+<!SLIDE>
 	@@@ Shell
 	$ git commit -am "all the things"
 	$ git push github
