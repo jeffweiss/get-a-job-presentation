@@ -4,14 +4,9 @@
 <!SLIDE center>
 # Jeff Weiss #
 
-## K-State CIS Alum 2001 ##
-
-<!SLIDE full-page>
-![School spirit](school_spirit.jpeg)
-
 <!SLIDE center>
 
-# Enterprise Engineering Team Lead #
+# Software Engineer / Intern Wrangler #
 ## Puppet Labs ##
 
 <!SLIDE center>
@@ -70,7 +65,7 @@ Developer of IT automation software for system administrators
 ## Potential ##
 
 .notes product - crazy vision: describe clean house, robots make it happen
-.notes career - growing like crazy, hired as a plain ol' sw engineer, now managing 7
+.notes career - growing like crazy, hired as a plain ol' sw engineer, managed 7, carved niche
 
 <!SLIDE center>
 # Why do I stay? #
